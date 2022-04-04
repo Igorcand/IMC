@@ -1,5 +1,5 @@
 # IMC Calculator 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Igorcand/exemplo-readme/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Igorcand/IMC/blob/master/LICENSE) 
 
 # About the Project
 IMC (Body Mass Index) is a simple calc that we allow calculate is someone be insede your weight that is considerate ideal based on your height 
